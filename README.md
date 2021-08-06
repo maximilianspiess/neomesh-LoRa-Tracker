@@ -1,7 +1,7 @@
 # neomesh-LoRa-Tracker
 
 ## What is it
-An Arduino-based bike tracker that transmits its position through the LoRaWAN network.
+An Arduino-based bike tracker for [neomesh](https://neomesh.de/) that transmits its position through the LoRaWAN network.
 
 ## Components
 - 1x TTGO T-Beam V2
